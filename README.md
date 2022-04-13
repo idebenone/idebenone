@@ -6,7 +6,9 @@
 
 
 # Github Stats 😎
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=vineethvg&show_icons=true&theme=dark)](https://github.com/vineethvg)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=vineethvg&show_icons=true&theme=tokyonight)](https://github.com/vineethvg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vineethvg&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vineethvg&theme=tokyonight)
+
 
