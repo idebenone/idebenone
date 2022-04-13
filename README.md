@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/vineethvg/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 - 🎶 Just in case: <a href="https://open.spotify.com/user/1al4haxnp8chjqoonwlsiavpl?si=5f24cfea8b814ee6"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
 
-# 🧰 Languages and Tools:
+# Languages and Tools ⚙️
 <p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="30" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" height="30" style="vertical-align:top; margin:4px">
