@@ -22,7 +22,7 @@
 # Github Stats 😎
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=idebenone&show_icons=true&theme=tokyonight)](https://github.com/idebenone) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vineethvg&theme=tokyonight&langs_count=7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idebenone&theme=tokyonight&langs_count=7)
 
 
 
