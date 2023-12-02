@@ -3,4 +3,6 @@
 
 Actively looking for open source contribution.
 
+![idebenone's Stats](https://github-readme-stats.vercel.app/api?username=idebenone&theme=merko&show_icons=true&hide_border=true&count_private=true)
 
+![idebenone's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idebenone&theme=merko&show_icons=true&hide_border=true&layout=compact)
