@@ -5,6 +5,6 @@
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/lazen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vineethvg)
 
-Open Source Enthusiast & Member of [CodeX](https://codex.so/lab)
+Open Source Enthusiast.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idebenone&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="idebenone's Top Languages" />
